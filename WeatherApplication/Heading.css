@@ -1,0 +1,13 @@
+.heading{
+    text-align:center;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    align-content: center;
+    background-color: #005f75;
+    color:#fff;
+    padding: 10px;
+    word-spacing: 50px;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    padding:10px;
+}
